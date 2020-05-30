@@ -1,0 +1,2 @@
+2020-05-30 21:37:28,952 - common.py[line:15] - <MainThread 12596>- <Process 24308> - INFO: Create download path G:\python3_web_PC\python3-web\P3-concurrency\downloads
+2020-05-30 21:37:28,955 - common.py[line:29] - <MainThread 12596>- <Process 24308> - INFO: Downloading No.1 [http://192.168.40.121/flags/ad.gif]
