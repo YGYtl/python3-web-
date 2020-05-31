@@ -5,7 +5,8 @@ from common import setup_down_path, get_links, download_one
 from logger import logger
 
 def download_many():
-    '''多进程，按进程数 并行 下载所有图片
+    '''
+    多进程，按进程数 并行 下载所有图片
     使用multiprocessing.Pool.apply_async()
     '''
     down_path = setup_down_path()
