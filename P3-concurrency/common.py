@@ -37,6 +37,7 @@ def download_one(image):  # 为什么设计成接收一个字典参数，而不�
     t1 = time.time()
     logger.info('Task No.{} [{}] runs {} seconds.'.format(image['linkno'], image['link'], t1 - t0))
 
+
 def download_one_starmap(path, linkno, link):
     '''
     下载一张图片
