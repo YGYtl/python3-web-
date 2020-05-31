@@ -1,0 +1,384 @@
+2020-05-31 10:01:10,514 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.1 [http://192.168.157.134/flags/ad.gif]
+2020-05-31 10:01:10,523 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.14 [http://192.168.157.134/flags/bd.gif]
+2020-05-31 10:01:10,599 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.27 [http://192.168.157.134/flags/by.gif]
+2020-05-31 10:01:10,610 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.40 [http://192.168.157.134/flags/cu.gif]
+2020-05-31 10:01:10,627 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.1 [http://192.168.157.134/flags/ad.gif] runs 0.09197783470153809 seconds.
+2020-05-31 10:01:10,628 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.14 [http://192.168.157.134/flags/bd.gif] runs 0.08046674728393555 seconds.
+2020-05-31 10:01:10,652 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.2 [http://192.168.157.134/flags/ae.gif]
+2020-05-31 10:01:10,661 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.15 [http://192.168.157.134/flags/be.gif]
+2020-05-31 10:01:10,668 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.2 [http://192.168.157.134/flags/ae.gif] runs 0.01371455192565918 seconds.
+2020-05-31 10:01:10,670 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.40 [http://192.168.157.134/flags/cu.gif] runs 0.01770639419555664 seconds.
+2020-05-31 10:01:10,703 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.27 [http://192.168.157.134/flags/by.gif] runs 0.05164837837219238 seconds.
+2020-05-31 10:01:10,797 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.15 [http://192.168.157.134/flags/be.gif] runs 0.011185169219970703 seconds.
+2020-05-31 10:01:10,897 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.3 [http://192.168.157.134/flags/af.gif]
+2020-05-31 10:01:10,902 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.28 [http://192.168.157.134/flags/bz.gif]
+2020-05-31 10:01:10,904 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.41 [http://192.168.157.134/flags/cv.gif]
+2020-05-31 10:01:10,952 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.28 [http://192.168.157.134/flags/bz.gif] runs 0.047696590423583984 seconds.
+2020-05-31 10:01:11,021 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.3 [http://192.168.157.134/flags/af.gif] runs 0.059723854064941406 seconds.
+2020-05-31 10:01:11,066 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.41 [http://192.168.157.134/flags/cv.gif] runs 0.009730815887451172 seconds.
+2020-05-31 10:01:11,120 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.16 [http://192.168.157.134/flags/bf.gif]
+2020-05-31 10:01:11,168 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.29 [http://192.168.157.134/flags/ca.gif]
+2020-05-31 10:01:11,218 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.4 [http://192.168.157.134/flags/ag.gif]
+2020-05-31 10:01:11,300 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.4 [http://192.168.157.134/flags/ag.gif] runs 0.006486415863037109 seconds.
+2020-05-31 10:01:11,337 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.5 [http://192.168.157.134/flags/al.gif]
+2020-05-31 10:01:11,340 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.42 [http://192.168.157.134/flags/cy.gif]
+2020-05-31 10:01:11,350 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.29 [http://192.168.157.134/flags/ca.gif] runs 0.014047622680664062 seconds.
+2020-05-31 10:01:11,351 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.16 [http://192.168.157.134/flags/bf.gif] runs 0.01605224609375 seconds.
+2020-05-31 10:01:11,399 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.30 [http://192.168.157.134/flags/cd.gif]
+2020-05-31 10:01:11,401 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.17 [http://192.168.157.134/flags/bg.gif]
+2020-05-31 10:01:11,415 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.5 [http://192.168.157.134/flags/al.gif] runs 0.01964282989501953 seconds.
+2020-05-31 10:01:11,416 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.42 [http://192.168.157.134/flags/cy.gif] runs 0.018546104431152344 seconds.
+2020-05-31 10:01:11,420 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.17 [http://192.168.157.134/flags/bg.gif] runs 0.01649332046508789 seconds.
+2020-05-31 10:01:11,447 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.30 [http://192.168.157.134/flags/cd.gif] runs 0.04541802406311035 seconds.
+2020-05-31 10:01:11,479 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.6 [http://192.168.157.134/flags/am.gif]
+2020-05-31 10:01:11,481 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.43 [http://192.168.157.134/flags/cz.gif]
+2020-05-31 10:01:11,481 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.18 [http://192.168.157.134/flags/bh.gif]
+2020-05-31 10:01:11,482 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.31 [http://192.168.157.134/flags/cf.gif]
+2020-05-31 10:01:11,497 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.43 [http://192.168.157.134/flags/cz.gif] runs 0.014233589172363281 seconds.
+2020-05-31 10:01:11,501 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.6 [http://192.168.157.134/flags/am.gif] runs 0.019219160079956055 seconds.
+2020-05-31 10:01:11,507 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.18 [http://192.168.157.134/flags/bh.gif] runs 0.022483110427856445 seconds.
+2020-05-31 10:01:11,521 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.31 [http://192.168.157.134/flags/cf.gif] runs 0.03374338150024414 seconds.
+2020-05-31 10:01:11,562 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.44 [http://192.168.157.134/flags/de.gif]
+2020-05-31 10:01:11,562 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.7 [http://192.168.157.134/flags/ao.gif]
+2020-05-31 10:01:11,563 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.19 [http://192.168.157.134/flags/bi.gif]
+2020-05-31 10:01:11,563 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.32 [http://192.168.157.134/flags/cg.gif]
+2020-05-31 10:01:11,580 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.19 [http://192.168.157.134/flags/bi.gif] runs 0.014208793640136719 seconds.
+2020-05-31 10:01:11,580 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.32 [http://192.168.157.134/flags/cg.gif] runs 0.013257503509521484 seconds.
+2020-05-31 10:01:11,580 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.7 [http://192.168.157.134/flags/ao.gif] runs 0.01527714729309082 seconds.
+2020-05-31 10:01:11,632 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.45 [http://192.168.157.134/flags/dj.gif]
+2020-05-31 10:01:11,633 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.20 [http://192.168.157.134/flags/bj.gif]
+2020-05-31 10:01:11,633 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.33 [http://192.168.157.134/flags/ch.gif]
+2020-05-31 10:01:11,634 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.8 [http://192.168.157.134/flags/ar.gif]
+2020-05-31 10:01:11,653 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.33 [http://192.168.157.134/flags/ch.gif] runs 0.01785421371459961 seconds.
+2020-05-31 10:01:11,654 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.20 [http://192.168.157.134/flags/bj.gif] runs 0.01857447624206543 seconds.
+2020-05-31 10:01:11,666 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.8 [http://192.168.157.134/flags/ar.gif] runs 0.02048492431640625 seconds.
+2020-05-31 10:01:11,712 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.46 [http://192.168.157.134/flags/dk.gif]
+2020-05-31 10:01:11,713 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.34 [http://192.168.157.134/flags/ci.gif]
+2020-05-31 10:01:11,713 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.21 [http://192.168.157.134/flags/bn.gif]
+2020-05-31 10:01:11,714 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.9 [http://192.168.157.134/flags/at.gif]
+2020-05-31 10:01:11,802 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.21 [http://192.168.157.134/flags/bn.gif] runs 0.016887664794921875 seconds.
+2020-05-31 10:01:11,810 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.34 [http://192.168.157.134/flags/ci.gif] runs 0.024432897567749023 seconds.
+2020-05-31 10:01:11,812 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.9 [http://192.168.157.134/flags/at.gif] runs 0.024489641189575195 seconds.
+2020-05-31 10:01:11,883 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.22 [http://192.168.157.134/flags/bo.gif]
+2020-05-31 10:01:11,884 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.35 [http://192.168.157.134/flags/cl.gif]
+2020-05-31 10:01:11,884 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.10 [http://192.168.157.134/flags/au.gif]
+2020-05-31 10:01:11,899 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.46 [http://192.168.157.134/flags/dk.gif] runs 0.01616382598876953 seconds.
+2020-05-31 10:01:11,899 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.22 [http://192.168.157.134/flags/bo.gif] runs 0.01291966438293457 seconds.
+2020-05-31 10:01:11,908 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.35 [http://192.168.157.134/flags/cl.gif] runs 0.021954059600830078 seconds.
+2020-05-31 10:01:11,964 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.47 [http://192.168.157.134/flags/dm.gif]
+2020-05-31 10:01:11,966 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.23 [http://192.168.157.134/flags/br.gif]
+2020-05-31 10:01:11,966 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.36 [http://192.168.157.134/flags/cm.gif]
+2020-05-31 10:01:11,980 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.47 [http://192.168.157.134/flags/dm.gif] runs 0.013442754745483398 seconds.
+2020-05-31 10:01:11,980 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.10 [http://192.168.157.134/flags/au.gif] runs 0.01658487319946289 seconds.
+2020-05-31 10:01:11,985 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.23 [http://192.168.157.134/flags/br.gif] runs 0.017504453659057617 seconds.
+2020-05-31 10:01:12,003 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.36 [http://192.168.157.134/flags/cm.gif] runs 0.03234410285949707 seconds.
+2020-05-31 10:01:12,068 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.48 [http://192.168.157.134/flags/dz.gif]
+2020-05-31 10:01:12,114 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.11 [http://192.168.157.134/flags/az.gif]
+2020-05-31 10:01:12,213 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.24 [http://192.168.157.134/flags/bs.gif]
+2020-05-31 10:01:12,216 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.37 [http://192.168.157.134/flags/cn.gif]
+2020-05-31 10:01:12,234 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.48 [http://192.168.157.134/flags/dz.gif] runs 0.0180666446685791 seconds.
+2020-05-31 10:01:12,234 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.11 [http://192.168.157.134/flags/az.gif] runs 0.017067432403564453 seconds.
+2020-05-31 10:01:12,248 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.24 [http://192.168.157.134/flags/bs.gif] runs 0.031238555908203125 seconds.
+2020-05-31 10:01:12,251 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.37 [http://192.168.157.134/flags/cn.gif] runs 0.03322482109069824 seconds.
+2020-05-31 10:01:12,307 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.38 [http://192.168.157.134/flags/co.gif]
+2020-05-31 10:01:12,307 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.49 [http://192.168.157.134/flags/ec.gif]
+2020-05-31 10:01:12,307 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.12 [http://192.168.157.134/flags/ba.gif]
+2020-05-31 10:01:12,308 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.25 [http://192.168.157.134/flags/bt.gif]
+2020-05-31 10:01:12,372 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.38 [http://192.168.157.134/flags/co.gif] runs 0.008180856704711914 seconds.
+2020-05-31 10:01:12,452 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.39 [http://192.168.157.134/flags/cr.gif]
+2020-05-31 10:01:12,465 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.49 [http://192.168.157.134/flags/ec.gif] runs 0.01693582534790039 seconds.
+2020-05-31 10:01:12,465 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.12 [http://192.168.157.134/flags/ba.gif] runs 0.01595473289489746 seconds.
+2020-05-31 10:01:12,533 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.39 [http://192.168.157.134/flags/cr.gif] runs 0.07933354377746582 seconds.
+2020-05-31 10:01:12,533 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.25 [http://192.168.157.134/flags/bt.gif] runs 0.08132743835449219 seconds.
+2020-05-31 10:01:12,534 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.50 [http://192.168.157.134/flags/ee.gif]
+2020-05-31 10:01:12,537 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.26 [http://192.168.157.134/flags/bw.gif]
+2020-05-31 10:01:12,538 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.53 [http://192.168.157.134/flags/es.gif]
+2020-05-31 10:01:12,539 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.13 [http://192.168.157.134/flags/bb.gif]
+2020-05-31 10:01:12,599 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.53 [http://192.168.157.134/flags/es.gif] runs 0.05624985694885254 seconds.
+2020-05-31 10:01:12,621 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.54 [http://192.168.157.134/flags/et.gif]
+2020-05-31 10:01:12,702 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.26 [http://192.168.157.134/flags/bw.gif] runs 0.08301734924316406 seconds.
+2020-05-31 10:01:12,709 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.54 [http://192.168.157.134/flags/et.gif] runs 0.0859832763671875 seconds.
+2020-05-31 10:01:12,712 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.50 [http://192.168.157.134/flags/ee.gif] runs 0.07683110237121582 seconds.
+2020-05-31 10:01:12,722 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.13 [http://192.168.157.134/flags/bb.gif] runs 0.10329174995422363 seconds.
+2020-05-31 10:01:12,821 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.66 [http://192.168.157.134/flags/gq.gif]
+2020-05-31 10:01:12,919 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.55 [http://192.168.157.134/flags/fi.gif]
+2020-05-31 10:01:12,968 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.51 [http://192.168.157.134/flags/eg.gif]
+2020-05-31 10:01:13,013 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.79 [http://192.168.157.134/flags/iq.gif]
+2020-05-31 10:01:13,024 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.66 [http://192.168.157.134/flags/gq.gif] runs 0.010824441909790039 seconds.
+2020-05-31 10:01:13,030 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.55 [http://192.168.157.134/flags/fi.gif] runs 0.014739036560058594 seconds.
+2020-05-31 10:01:13,033 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.51 [http://192.168.157.134/flags/eg.gif] runs 0.01676201820373535 seconds.
+2020-05-31 10:01:13,037 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.79 [http://192.168.157.134/flags/iq.gif] runs 0.020818233489990234 seconds.
+2020-05-31 10:01:13,128 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.67 [http://192.168.157.134/flags/gr.gif]
+2020-05-31 10:01:13,217 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.56 [http://192.168.157.134/flags/fj.gif]
+2020-05-31 10:01:13,253 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.52 [http://192.168.157.134/flags/er.gif]
+2020-05-31 10:01:13,259 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.80 [http://192.168.157.134/flags/ir.gif]
+2020-05-31 10:01:13,278 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.67 [http://192.168.157.134/flags/gr.gif] runs 0.01908588409423828 seconds.
+2020-05-31 10:01:13,330 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.68 [http://192.168.157.134/flags/gt.gif]
+2020-05-31 10:01:13,338 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.80 [http://192.168.157.134/flags/ir.gif] runs 0.012005329132080078 seconds.
+2020-05-31 10:01:13,340 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.81 [http://192.168.157.134/flags/is.gif]
+2020-05-31 10:01:13,349 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.52 [http://192.168.157.134/flags/er.gif] runs 0.02064681053161621 seconds.
+2020-05-31 10:01:13,351 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.56 [http://192.168.157.134/flags/fj.gif] runs 0.02083587646484375 seconds.
+2020-05-31 10:01:13,358 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.68 [http://192.168.157.134/flags/gt.gif] runs 0.0264279842376709 seconds.
+2020-05-31 10:01:13,386 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.92 [http://192.168.157.134/flags/kp.gif]
+2020-05-31 10:01:13,387 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.57 [http://192.168.157.134/flags/fm.gif]
+2020-05-31 10:01:13,388 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.69 [http://192.168.157.134/flags/gw.gif]
+2020-05-31 10:01:13,404 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.81 [http://192.168.157.134/flags/is.gif] runs 0.019252538681030273 seconds.
+2020-05-31 10:01:13,413 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.57 [http://192.168.157.134/flags/fm.gif] runs 0.01990342140197754 seconds.
+2020-05-31 10:01:13,446 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.82 [http://192.168.157.134/flags/it.gif]
+2020-05-31 10:01:13,446 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.58 [http://192.168.157.134/flags/fr.gif]
+2020-05-31 10:01:13,451 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.92 [http://192.168.157.134/flags/kp.gif] runs 0.015900135040283203 seconds.
+2020-05-31 10:01:13,456 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.69 [http://192.168.157.134/flags/gw.gif] runs 0.018937349319458008 seconds.
+2020-05-31 10:01:13,470 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.93 [http://192.168.157.134/flags/kr.gif]
+2020-05-31 10:01:13,470 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.70 [http://192.168.157.134/flags/gy.gif]
+2020-05-31 10:01:13,500 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.93 [http://192.168.157.134/flags/kr.gif] runs 0.027463674545288086 seconds.
+2020-05-31 10:01:13,500 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.82 [http://192.168.157.134/flags/it.gif] runs 0.03314518928527832 seconds.
+2020-05-31 10:01:13,502 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.94 [http://192.168.157.134/flags/kw.gif]
+2020-05-31 10:01:13,505 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.58 [http://192.168.157.134/flags/fr.gif] runs 0.035698652267456055 seconds.
+2020-05-31 10:01:13,512 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.59 [http://192.168.157.134/flags/ga.gif]
+2020-05-31 10:01:13,516 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.83 [http://192.168.157.134/flags/jm.gif]
+2020-05-31 10:01:13,537 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.94 [http://192.168.157.134/flags/kw.gif] runs 0.03299117088317871 seconds.
+2020-05-31 10:01:13,538 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.70 [http://192.168.157.134/flags/gy.gif] runs 0.03655838966369629 seconds.
+2020-05-31 10:01:13,538 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.95 [http://192.168.157.134/flags/kz.gif]
+2020-05-31 10:01:13,569 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.83 [http://192.168.157.134/flags/jm.gif] runs 0.03338193893432617 seconds.
+2020-05-31 10:01:13,569 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.95 [http://192.168.157.134/flags/kz.gif] runs 0.02812051773071289 seconds.
+2020-05-31 10:01:13,615 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.96 [http://192.168.157.134/flags/la.gif]
+2020-05-31 10:01:13,614 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.71 [http://192.168.157.134/flags/hn.gif]
+2020-05-31 10:01:13,617 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.84 [http://192.168.157.134/flags/jo.gif]
+2020-05-31 10:01:13,626 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.96 [http://192.168.157.134/flags/la.gif] runs 0.00964975357055664 seconds.
+2020-05-31 10:01:13,642 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.71 [http://192.168.157.134/flags/hn.gif] runs 0.02476954460144043 seconds.
+2020-05-31 10:01:13,643 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.59 [http://192.168.157.134/flags/ga.gif] runs 0.02876877784729004 seconds.
+2020-05-31 10:01:13,648 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.84 [http://192.168.157.134/flags/jo.gif] runs 0.0288541316986084 seconds.
+2020-05-31 10:01:13,648 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.97 [http://192.168.157.134/flags/lb.gif]
+2020-05-31 10:01:13,650 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.72 [http://192.168.157.134/flags/hr.gif]
+2020-05-31 10:01:13,650 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.60 [http://192.168.157.134/flags/gb.gif]
+2020-05-31 10:01:13,651 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.85 [http://192.168.157.134/flags/jp.gif]
+2020-05-31 10:01:13,712 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.72 [http://192.168.157.134/flags/hr.gif] runs 0.056790828704833984 seconds.
+2020-05-31 10:01:13,712 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.85 [http://192.168.157.134/flags/jp.gif] runs 0.06001591682434082 seconds.
+2020-05-31 10:01:13,741 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.73 [http://192.168.157.134/flags/ht.gif]
+2020-05-31 10:01:13,743 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.86 [http://192.168.157.134/flags/ke.gif]
+2020-05-31 10:01:13,759 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.60 [http://192.168.157.134/flags/gb.gif] runs 0.07369542121887207 seconds.
+2020-05-31 10:01:13,802 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.61 [http://192.168.157.134/flags/gd.gif]
+2020-05-31 10:01:13,806 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.97 [http://192.168.157.134/flags/lb.gif] runs 0.0533137321472168 seconds.
+2020-05-31 10:01:13,807 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.98 [http://192.168.157.134/flags/lc.gif]
+2020-05-31 10:01:13,820 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.86 [http://192.168.157.134/flags/ke.gif] runs 0.024281024932861328 seconds.
+2020-05-31 10:01:13,823 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.73 [http://192.168.157.134/flags/ht.gif] runs 0.025539875030517578 seconds.
+2020-05-31 10:01:13,839 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.61 [http://192.168.157.134/flags/gd.gif] runs 0.03437089920043945 seconds.
+2020-05-31 10:01:13,839 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.98 [http://192.168.157.134/flags/lc.gif] runs 0.029871225357055664 seconds.
+2020-05-31 10:01:13,854 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.87 [http://192.168.157.134/flags/kg.gif]
+2020-05-31 10:01:13,856 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.74 [http://192.168.157.134/flags/hu.gif]
+2020-05-31 10:01:13,857 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.62 [http://192.168.157.134/flags/ge.gif]
+2020-05-31 10:01:13,857 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.99 [http://192.168.157.134/flags/li.gif]
+2020-05-31 10:01:13,899 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.62 [http://192.168.157.134/flags/ge.gif] runs 0.021120548248291016 seconds.
+2020-05-31 10:01:13,901 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.74 [http://192.168.157.134/flags/hu.gif] runs 0.016074180603027344 seconds.
+2020-05-31 10:01:13,903 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.99 [http://192.168.157.134/flags/li.gif] runs 0.015018224716186523 seconds.
+2020-05-31 10:01:13,946 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.63 [http://192.168.157.134/flags/gh.gif]
+2020-05-31 10:01:13,956 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.75 [http://192.168.157.134/flags/id.gif]
+2020-05-31 10:01:13,966 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.87 [http://192.168.157.134/flags/kg.gif] runs 0.02700662612915039 seconds.
+2020-05-31 10:01:13,966 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.100 [http://192.168.157.134/flags/lk.gif]
+2020-05-31 10:01:13,972 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.88 [http://192.168.157.134/flags/kh.gif]
+2020-05-31 10:01:13,998 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.75 [http://192.168.157.134/flags/id.gif] runs 0.02998518943786621 seconds.
+2020-05-31 10:01:13,998 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.63 [http://192.168.157.134/flags/gh.gif] runs 0.02998518943786621 seconds.
+2020-05-31 10:01:14,000 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.76 [http://192.168.157.134/flags/ie.gif]
+2020-05-31 10:01:14,000 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.64 [http://192.168.157.134/flags/gm.gif]
+2020-05-31 10:01:14,007 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.88 [http://192.168.157.134/flags/kh.gif] runs 0.029726266860961914 seconds.
+2020-05-31 10:01:14,009 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.89 [http://192.168.157.134/flags/ki.gif]
+2020-05-31 10:01:14,025 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.76 [http://192.168.157.134/flags/ie.gif] runs 0.024255752563476562 seconds.
+2020-05-31 10:01:14,031 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.64 [http://192.168.157.134/flags/gm.gif] runs 0.02524876594543457 seconds.
+2020-05-31 10:01:14,031 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.100 [http://192.168.157.134/flags/lk.gif] runs 0.03326535224914551 seconds.
+2020-05-31 10:01:14,088 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.77 [http://192.168.157.134/flags/il.gif]
+2020-05-31 10:01:14,100 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.65 [http://192.168.157.134/flags/gn.gif]
+2020-05-31 10:01:14,141 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.89 [http://192.168.157.134/flags/ki.gif] runs 0.050536394119262695 seconds.
+2020-05-31 10:01:14,152 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.90 [http://192.168.157.134/flags/km.gif]
+2020-05-31 10:01:14,153 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.101 [http://192.168.157.134/flags/lr.gif]
+2020-05-31 10:01:14,176 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.65 [http://192.168.157.134/flags/gn.gif] runs 0.041553497314453125 seconds.
+2020-05-31 10:01:14,178 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.90 [http://192.168.157.134/flags/km.gif] runs 0.01677680015563965 seconds.
+2020-05-31 10:01:14,182 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.101 [http://192.168.157.134/flags/lr.gif] runs 0.027605295181274414 seconds.
+2020-05-31 10:01:14,207 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.102 [http://192.168.157.134/flags/ls.gif]
+2020-05-31 10:01:14,218 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.105 [http://192.168.157.134/flags/lv.gif]
+2020-05-31 10:01:14,218 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.91 [http://192.168.157.134/flags/kn.gif]
+2020-05-31 10:01:14,265 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.102 [http://192.168.157.134/flags/ls.gif] runs 0.0567173957824707 seconds.
+2020-05-31 10:01:14,268 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.77 [http://192.168.157.134/flags/il.gif] runs 0.05042886734008789 seconds.
+2020-05-31 10:01:14,302 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.78 [http://192.168.157.134/flags/in.gif]
+2020-05-31 10:01:14,303 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.103 [http://192.168.157.134/flags/lt.gif]
+2020-05-31 10:01:14,314 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.105 [http://192.168.157.134/flags/lv.gif] runs 0.05999612808227539 seconds.
+2020-05-31 10:01:14,330 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.106 [http://192.168.157.134/flags/ly.gif]
+2020-05-31 10:01:14,371 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.78 [http://192.168.157.134/flags/in.gif] runs 0.06726598739624023 seconds.
+2020-05-31 10:01:14,371 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.103 [http://192.168.157.134/flags/lt.gif] runs 0.062102556228637695 seconds.
+2020-05-31 10:01:14,372 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.91 [http://192.168.157.134/flags/kn.gif] runs 0.07858777046203613 seconds.
+2020-05-31 10:01:14,373 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.106 [http://192.168.157.134/flags/ly.gif] runs 0.04157853126525879 seconds.
+2020-05-31 10:01:14,392 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.118 [http://192.168.157.134/flags/mt.gif]
+2020-05-31 10:01:14,393 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.131 [http://192.168.157.134/flags/np.gif]
+2020-05-31 10:01:14,398 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.107 [http://192.168.157.134/flags/ma.gif]
+2020-05-31 10:01:14,399 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.104 [http://192.168.157.134/flags/lu.gif]
+2020-05-31 10:01:14,420 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.131 [http://192.168.157.134/flags/np.gif] runs 0.018264055252075195 seconds.
+2020-05-31 10:01:14,421 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.118 [http://192.168.157.134/flags/mt.gif] runs 0.020032167434692383 seconds.
+2020-05-31 10:01:14,442 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.132 [http://192.168.157.134/flags/nr.gif]
+2020-05-31 10:01:14,489 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.107 [http://192.168.157.134/flags/ma.gif] runs 0.055548906326293945 seconds.
+2020-05-31 10:01:14,490 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.104 [http://192.168.157.134/flags/lu.gif] runs 0.0507352352142334 seconds.
+2020-05-31 10:01:14,519 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.119 [http://192.168.157.134/flags/mu.gif]
+2020-05-31 10:01:14,548 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.132 [http://192.168.157.134/flags/nr.gif] runs 0.055971384048461914 seconds.
+2020-05-31 10:01:14,548 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.144 [http://192.168.157.134/flags/qa.gif]
+2020-05-31 10:01:14,552 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.108 [http://192.168.157.134/flags/mc.gif]
+2020-05-31 10:01:14,553 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.133 [http://192.168.157.134/flags/nz.gif]
+2020-05-31 10:01:14,568 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.119 [http://192.168.157.134/flags/mu.gif] runs 0.047127723693847656 seconds.
+2020-05-31 10:01:14,587 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.120 [http://192.168.157.134/flags/mv.gif]
+2020-05-31 10:01:14,608 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.133 [http://192.168.157.134/flags/nz.gif] runs 0.053374290466308594 seconds.
+2020-05-31 10:01:14,625 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.134 [http://192.168.157.134/flags/om.gif]
+2020-05-31 10:01:14,639 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.144 [http://192.168.157.134/flags/qa.gif] runs 0.04977679252624512 seconds.
+2020-05-31 10:01:14,684 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.145 [http://192.168.157.134/flags/ro.gif]
+2020-05-31 10:01:14,687 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.108 [http://192.168.157.134/flags/mc.gif] runs 0.05872297286987305 seconds.
+2020-05-31 10:01:14,688 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.120 [http://192.168.157.134/flags/mv.gif] runs 0.06398272514343262 seconds.
+2020-05-31 10:01:14,690 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.134 [http://192.168.157.134/flags/om.gif] runs 0.03604888916015625 seconds.
+2020-05-31 10:01:14,691 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.109 [http://192.168.157.134/flags/md.gif]
+2020-05-31 10:01:14,702 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.135 [http://192.168.157.134/flags/pa.gif]
+2020-05-31 10:01:14,767 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.145 [http://192.168.157.134/flags/ro.gif] runs 0.08184194564819336 seconds.
+2020-05-31 10:01:14,798 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.135 [http://192.168.157.134/flags/pa.gif] runs 0.05895709991455078 seconds.
+2020-05-31 10:01:14,802 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.136 [http://192.168.157.134/flags/pe.gif]
+2020-05-31 10:01:14,801 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.121 [http://192.168.157.134/flags/mw.gif]
+2020-05-31 10:01:14,809 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.146 [http://192.168.157.134/flags/rs.gif]
+2020-05-31 10:01:14,823 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.136 [http://192.168.157.134/flags/pe.gif] runs 0.019507646560668945 seconds.
+2020-05-31 10:01:14,828 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.109 [http://192.168.157.134/flags/md.gif] runs 0.026872634887695312 seconds.
+2020-05-31 10:01:14,882 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.121 [http://192.168.157.134/flags/mw.gif] runs 0.03679823875427246 seconds.
+2020-05-31 10:01:14,890 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.137 [http://192.168.157.134/flags/pg.gif]
+2020-05-31 10:01:14,898 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.146 [http://192.168.157.134/flags/rs.gif] runs 0.011624336242675781 seconds.
+2020-05-31 10:01:14,926 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.110 [http://192.168.157.134/flags/me.gif]
+2020-05-31 10:01:14,926 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.122 [http://192.168.157.134/flags/mx.gif]
+2020-05-31 10:01:14,954 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.147 [http://192.168.157.134/flags/ru.gif]
+2020-05-31 10:01:14,965 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.110 [http://192.168.157.134/flags/me.gif] runs 0.009764909744262695 seconds.
+2020-05-31 10:01:14,977 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.122 [http://192.168.157.134/flags/mx.gif] runs 0.020168304443359375 seconds.
+2020-05-31 10:01:14,990 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.111 [http://192.168.157.134/flags/mg.gif]
+2020-05-31 10:01:14,991 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.123 [http://192.168.157.134/flags/my.gif]
+2020-05-31 10:01:15,010 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.138 [http://192.168.157.134/flags/ph.gif]
+2020-05-31 10:01:15,049 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.147 [http://192.168.157.134/flags/ru.gif] runs 0.0591433048248291 seconds.
+2020-05-31 10:01:15,052 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.148 [http://192.168.157.134/flags/rw.gif]
+2020-05-31 10:01:15,057 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.111 [http://192.168.157.134/flags/mg.gif] runs 0.06522226333618164 seconds.
+2020-05-31 10:01:15,099 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.112 [http://192.168.157.134/flags/mh.gif]
+2020-05-31 10:01:15,124 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.123 [http://192.168.157.134/flags/my.gif] runs 0.08423137664794922 seconds.
+2020-05-31 10:01:15,128 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.138 [http://192.168.157.134/flags/ph.gif] runs 0.07595682144165039 seconds.
+2020-05-31 10:01:15,134 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.148 [http://192.168.157.134/flags/rw.gif] runs 0.07108378410339355 seconds.
+2020-05-31 10:01:15,137 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.112 [http://192.168.157.134/flags/mh.gif] runs 0.018927335739135742 seconds.
+2020-05-31 10:01:15,144 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.139 [http://192.168.157.134/flags/pk.gif]
+2020-05-31 10:01:15,144 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.124 [http://192.168.157.134/flags/mz.gif]
+2020-05-31 10:01:15,168 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.149 [http://192.168.157.134/flags/sa.gif]
+2020-05-31 10:01:15,177 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.113 [http://192.168.157.134/flags/mk.gif]
+2020-05-31 10:01:15,207 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.149 [http://192.168.157.134/flags/sa.gif] runs 0.03705024719238281 seconds.
+2020-05-31 10:01:15,208 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.150 [http://192.168.157.134/flags/sb.gif]
+2020-05-31 10:01:15,217 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.124 [http://192.168.157.134/flags/mz.gif] runs 0.04520440101623535 seconds.
+2020-05-31 10:01:15,227 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.139 [http://192.168.157.134/flags/pk.gif] runs 0.05589866638183594 seconds.
+2020-05-31 10:01:15,315 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.113 [http://192.168.157.134/flags/mk.gif] runs 0.11260104179382324 seconds.
+2020-05-31 10:01:15,328 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.125 [http://192.168.157.134/flags/na.gif]
+2020-05-31 10:01:15,339 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.140 [http://192.168.157.134/flags/pl.gif]
+2020-05-31 10:01:15,340 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.114 [http://192.168.157.134/flags/ml.gif]
+2020-05-31 10:01:15,366 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.150 [http://192.168.157.134/flags/sb.gif] runs 0.09789490699768066 seconds.
+2020-05-31 10:01:15,375 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.151 [http://192.168.157.134/flags/sc.gif]
+2020-05-31 10:01:15,418 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.140 [http://192.168.157.134/flags/pl.gif] runs 0.04589438438415527 seconds.
+2020-05-31 10:01:15,421 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.125 [http://192.168.157.134/flags/na.gif] runs 0.04750561714172363 seconds.
+2020-05-31 10:01:15,430 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.114 [http://192.168.157.134/flags/ml.gif] runs 0.04733848571777344 seconds.
+2020-05-31 10:01:15,440 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.151 [http://192.168.157.134/flags/sc.gif] runs 0.0330808162689209 seconds.
+2020-05-31 10:01:15,449 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.141 [http://192.168.157.134/flags/pt.gif]
+2020-05-31 10:01:15,486 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.126 [http://192.168.157.134/flags/ne.gif]
+2020-05-31 10:01:15,491 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.115 [http://192.168.157.134/flags/mm.gif]
+2020-05-31 10:01:15,547 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.126 [http://192.168.157.134/flags/ne.gif] runs 0.049600839614868164 seconds.
+2020-05-31 10:01:15,570 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.152 [http://192.168.157.134/flags/sd.gif]
+2020-05-31 10:01:15,572 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.127 [http://192.168.157.134/flags/ng.gif]
+2020-05-31 10:01:15,580 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.141 [http://192.168.157.134/flags/pt.gif] runs 0.04150128364562988 seconds.
+2020-05-31 10:01:15,607 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.115 [http://192.168.157.134/flags/mm.gif] runs 0.03930997848510742 seconds.
+2020-05-31 10:01:15,607 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.142 [http://192.168.157.134/flags/pw.gif]
+2020-05-31 10:01:15,608 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.116 [http://192.168.157.134/flags/mn.gif]
+2020-05-31 10:01:15,621 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.152 [http://192.168.157.134/flags/sd.gif] runs 0.04839682579040527 seconds.
+2020-05-31 10:01:15,629 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.127 [http://192.168.157.134/flags/ng.gif] runs 0.032935380935668945 seconds.
+2020-05-31 10:01:15,639 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.128 [http://192.168.157.134/flags/ni.gif]
+2020-05-31 10:01:15,645 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.153 [http://192.168.157.134/flags/se.gif]
+2020-05-31 10:01:15,651 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.142 [http://192.168.157.134/flags/pw.gif] runs 0.03315567970275879 seconds.
+2020-05-31 10:01:15,662 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.116 [http://192.168.157.134/flags/mn.gif] runs 0.01714348793029785 seconds.
+2020-05-31 10:01:15,663 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.128 [http://192.168.157.134/flags/ni.gif] runs 0.022974729537963867 seconds.
+2020-05-31 10:01:15,743 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.143 [http://192.168.157.134/flags/py.gif]
+2020-05-31 10:01:15,743 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.117 [http://192.168.157.134/flags/mr.gif]
+2020-05-31 10:01:15,799 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.153 [http://192.168.157.134/flags/se.gif] runs 0.061615943908691406 seconds.
+2020-05-31 10:01:15,804 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.143 [http://192.168.157.134/flags/py.gif] runs 0.048534393310546875 seconds.
+2020-05-31 10:01:15,807 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.157 [http://192.168.157.134/flags/sl.gif]
+2020-05-31 10:01:15,810 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.129 [http://192.168.157.134/flags/nl.gif]
+2020-05-31 10:01:15,815 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.154 [http://192.168.157.134/flags/sg.gif]
+2020-05-31 10:01:15,856 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.117 [http://192.168.157.134/flags/mr.gif] runs 0.08907771110534668 seconds.
+2020-05-31 10:01:15,869 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.157 [http://192.168.157.134/flags/sl.gif] runs 0.0596468448638916 seconds.
+.
+2020-05-31 10:01:15,882 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.158 [http://192.168.157.134/flags/sm.gif]
+2020-05-31 10:01:15,884 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.130 [http://192.168.157.134/flags/no.gif]
+2020-05-31 10:01:15,884 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.170 [http://192.168.157.134/flags/tj.gif]
+2020-05-31 10:01:15,905 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.154 [http://192.168.157.134/flags/sg.gif] runs 0.025936365127563477 seconds.
+2020-05-31 10:01:15,911 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.158 [http://192.168.157.134/flags/sm.gif] runs 0.025873899459838867 seconds.
+2020-05-31 10:01:15,920 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.170 [http://192.168.157.134/flags/tj.gif] runs 0.02115607261657715 seconds.
+2020-05-31 10:01:15,920 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.130 [http://192.168.157.134/flags/no.gif] runs 0.030976533889770508 seconds.
+2020-05-31 10:01:15,935 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.155 [http://192.168.157.134/flags/si.gif]
+2020-05-31 10:01:15,936 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.159 [http://192.168.157.134/flags/sn.gif]
+2020-05-31 10:01:15,939 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.171 [http://192.168.157.134/flags/tl.gif]
+2020-05-31 10:01:15,958 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.159 [http://192.168.157.134/flags/sn.gif] runs 0.017660140991210938 seconds.
+2020-05-31 10:01:15,961 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.155 [http://192.168.157.134/flags/si.gif] runs 0.012202024459838867 seconds.
+2020-05-31 10:01:16,006 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.183 [http://192.168.157.134/flags/uy.gif]
+2020-05-31 10:01:16,006 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.160 [http://192.168.157.134/flags/so.gif]
+2020-05-31 10:01:16,007 - common.py[line:29] - <MainThread 8848>- <Process 16060> - INFO: Downloading No.156 [http://192.168.157.134/flags/sk.gif]
+2020-05-31 10:01:16,039 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.171 [http://192.168.157.134/flags/tl.gif] runs 0.03180432319641113 seconds.
+2020-05-31 10:01:16,071 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.183 [http://192.168.157.134/flags/uy.gif] runs 0.06375288963317871 seconds.
+2020-05-31 10:01:16,072 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.172 [http://192.168.157.134/flags/tm.gif]
+2020-05-31 10:01:16,084 - common.py[line:38] - <MainThread 8848>- <Process 16060> - INFO: Task No.156 [http://192.168.157.134/flags/sk.gif] runs 0.06796526908874512 seconds.
+2020-05-31 10:01:16,122 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.184 [http://192.168.157.134/flags/uz.gif]
+2020-05-31 10:01:16,126 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.160 [http://192.168.157.134/flags/so.gif] runs 0.05975794792175293 seconds.
+2020-05-31 10:01:16,136 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.172 [http://192.168.157.134/flags/tm.gif] runs 0.05994749069213867 seconds.
+2020-05-31 10:01:16,191 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.184 [http://192.168.157.134/flags/uz.gif] runs 0.029276132583618164 seconds.
+2020-05-31 10:01:16,194 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.185 [http://192.168.157.134/flags/va.gif]
+2020-05-31 10:01:16,195 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.173 [http://192.168.157.134/flags/tn.gif]
+2020-05-31 10:01:16,209 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.161 [http://192.168.157.134/flags/sr.gif]
+2020-05-31 10:01:16,266 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.173 [http://192.168.157.134/flags/tn.gif] runs 0.04065656661987305 seconds.
+2020-05-31 10:01:16,269 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.185 [http://192.168.157.134/flags/va.gif] runs 0.04885125160217285 seconds.
+2020-05-31 10:01:16,326 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.174 [http://192.168.157.134/flags/to.gif]
+2020-05-31 10:01:16,330 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.161 [http://192.168.157.134/flags/sr.gif] runs 0.07659363746643066 seconds.
+2020-05-31 10:01:16,351 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.162 [http://192.168.157.134/flags/ss.gif]
+2020-05-31 10:01:16,369 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.186 [http://192.168.157.134/flags/vc.gif]
+2020-05-31 10:01:16,395 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.174 [http://192.168.157.134/flags/to.gif] runs 0.044890403747558594 seconds.
+2020-05-31 10:01:16,415 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.186 [http://192.168.157.134/flags/vc.gif] runs 0.02323770523071289 seconds.
+2020-05-31 10:01:16,419 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.162 [http://192.168.157.134/flags/ss.gif] runs 0.033934593200683594 seconds.
+2020-05-31 10:01:16,440 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.163 [http://192.168.157.134/flags/st.gif]
+2020-05-31 10:01:16,450 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.175 [http://192.168.157.134/flags/tr.gif]
+2020-05-31 10:01:16,451 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.187 [http://192.168.157.134/flags/ve.gif]
+2020-05-31 10:01:16,473 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.163 [http://192.168.157.134/flags/st.gif] runs 0.0336909294128418 seconds.
+2020-05-31 10:01:16,475 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.164 [http://192.168.157.134/flags/sv.gif]
+2020-05-31 10:01:16,532 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.175 [http://192.168.157.134/flags/tr.gif] runs 0.057700157165527344 seconds.
+2020-05-31 10:01:16,532 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.164 [http://192.168.157.134/flags/sv.gif] runs 0.056166887283325195 seconds.
+2020-05-31 10:01:16,540 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.187 [http://192.168.157.134/flags/ve.gif] runs 0.06505680084228516 seconds.
+2020-05-31 10:01:16,541 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.176 [http://192.168.157.134/flags/tt.gif]
+2020-05-31 10:01:16,549 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.165 [http://192.168.157.134/flags/sy.gif]
+2020-05-31 10:01:16,549 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.188 [http://192.168.157.134/flags/vn.gif]
+2020-05-31 10:01:16,638 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.188 [http://192.168.157.134/flags/vn.gif] runs 0.05701708793640137 seconds.
+2020-05-31 10:01:16,662 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.189 [http://192.168.157.134/flags/vu.gif]
+2020-05-31 10:01:16,718 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.165 [http://192.168.157.134/flags/sy.gif] runs 0.09962940216064453 seconds.
+2020-05-31 10:01:16,726 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.166 [http://192.168.157.134/flags/sz.gif]
+2020-05-31 10:01:16,727 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.176 [http://192.168.157.134/flags/tt.gif] runs 0.0699014663696289 seconds.
+2020-05-31 10:01:16,731 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.189 [http://192.168.157.134/flags/vu.gif] runs 0.0391695499420166 seconds.
+2020-05-31 10:01:16,737 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.177 [http://192.168.157.134/flags/tv.gif]
+2020-05-31 10:01:16,781 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.166 [http://192.168.157.134/flags/sz.gif] runs 0.047440290451049805 seconds.
+2020-05-31 10:01:16,811 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.167 [http://192.168.157.134/flags/td.gif]
+2020-05-31 10:01:16,812 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.178 [http://192.168.157.134/flags/tw.gif]
+2020-05-31 10:01:16,812 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.190 [http://192.168.157.134/flags/ws.gif]
+2020-05-31 10:01:16,904 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.167 [http://192.168.157.134/flags/td.gif] runs 0.05723237991333008 seconds.
+2020-05-31 10:01:16,940 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.168 [http://192.168.157.134/flags/tg.gif]
+2020-05-31 10:01:16,983 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.178 [http://192.168.157.134/flags/tw.gif] runs 0.09130311012268066 seconds.
+2020-05-31 10:01:17,049 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.179 [http://192.168.157.134/flags/tz.gif]
+2020-05-31 10:01:17,051 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.168 [http://192.168.157.134/flags/tg.gif] runs 0.06747245788574219 seconds.
+2020-05-31 10:01:17,123 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.190 [http://192.168.157.134/flags/ws.gif] runs 0.08907294273376465 seconds.
+2020-05-31 10:01:17,226 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.179 [http://192.168.157.134/flags/tz.gif] runs 0.15309786796569824 seconds.
+2020-05-31 10:01:17,227 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.191 [http://192.168.157.134/flags/ye.gif]
+2020-05-31 10:01:17,236 - common.py[line:29] - <MainThread 27316>- <Process 3820> - INFO: Downloading No.169 [http://192.168.157.134/flags/th.gif]
+2020-05-31 10:01:17,236 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.180 [http://192.168.157.134/flags/ua.gif]
+2020-05-31 10:01:17,352 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.180 [http://192.168.157.134/flags/ua.gif] runs 0.0539095401763916 seconds.
+2020-05-31 10:01:17,399 - common.py[line:38] - <MainThread 27316>- <Process 3820> - INFO: Task No.169 [http://192.168.157.134/flags/th.gif] runs 0.0327303409576416 seconds.
+2020-05-31 10:01:17,421 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.181 [http://192.168.157.134/flags/ug.gif]
+2020-05-31 10:01:17,449 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.191 [http://192.168.157.134/flags/ye.gif] runs 0.03166079521179199 seconds.
+2020-05-31 10:01:17,497 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.181 [http://192.168.157.134/flags/ug.gif] runs 0.035781145095825195 seconds.
+2020-05-31 10:01:17,540 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.192 [http://192.168.157.134/flags/za.gif]
+2020-05-31 10:01:17,607 - common.py[line:29] - <MainThread 20744>- <Process 25392> - INFO: Downloading No.182 [http://192.168.157.134/flags/us.gif]
+2020-05-31 10:01:17,610 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.192 [http://192.168.157.134/flags/za.gif] runs 0.03621935844421387 seconds.
+2020-05-31 10:01:17,644 - common.py[line:38] - <MainThread 20744>- <Process 25392> - INFO: Task No.182 [http://192.168.157.134/flags/us.gif] runs 0.03388023376464844 seconds.
+2020-05-31 10:01:17,647 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.193 [http://192.168.157.134/flags/zm.gif]
+2020-05-31 10:01:17,718 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.193 [http://192.168.157.134/flags/zm.gif] runs 0.06636452674865723 seconds.
+2020-05-31 10:01:17,754 - common.py[line:29] - <MainThread 28376>- <Process 23628> - INFO: Downloading No.194 [http://192.168.157.134/flags/zw.gif]
+2020-05-31 10:01:17,787 - common.py[line:38] - <MainThread 28376>- <Process 23628> - INFO: Task No.194 [http://192.168.157.134/flags/zw.gif] runs 0.03170943260192871 seconds.
