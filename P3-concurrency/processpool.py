@@ -20,8 +20,8 @@ def download_many():
         }
         p.apply_async(download_one,args=(image,))
     logger.info('Waiting for all subprocesses done...')
-    p.close()
-    p.join()
+    p.close() #关闭进程池
+    p.join() #主进程等待进程池中的所有子进程结束
     logger.info('All subprocesses done.')
 
     return len(links)
