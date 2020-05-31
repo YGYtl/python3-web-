@@ -20,7 +20,7 @@ def get_links():
     '''获取所有图片的下载链接'''
     with open(os.path.join(basepath, 'flags.txt')) as f:  # 图片名都保存在这个文件中，每行一个图片名
         return ['http://192.168.157.134/flags/' + flag.strip() for flag in f.readlines()]
-
+    # flag.strip() 去除首尾空格; flag.strip('0') 去除首尾0
 
 def download_one(image):  # 为什么设计成接收一个字典参数，而不是三个位置参数? 方便后续多线程时concurrent.futures.ThreadPoolExecutor.map()
     '''下载一张图片
