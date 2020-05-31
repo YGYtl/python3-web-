@@ -1,0 +1,4 @@
+2020-05-31 09:32:00,874 - common.py[line:15] - <MainThread 20556>- <Process 25748> - INFO: Create download path G:\python3_web_PC\python3-web\P3-concurrency\downloads
+2020-05-31 09:32:00,987 - processpool.py[line:22] - <MainThread 20556>- <Process 25748> - INFO: Waiting for all subprocesses done...
+2020-05-31 09:32:33,800 - processpool.py[line:25] - <MainThread 20556>- <Process 25748> - INFO: All subprocesses done.
+2020-05-31 09:32:33,802 - processpool.py[line:33] - <MainThread 20556>- <Process 25748> - INFO: 194 flags downloaded in 32.928547859191895 seconds.
